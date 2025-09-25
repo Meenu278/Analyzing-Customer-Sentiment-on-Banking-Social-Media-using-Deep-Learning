@@ -48,6 +48,8 @@ The study investigates how **machine learning (ML)** and **deep learning (DL)** 
 
 
 ## 📂 Installation & Usage
+## Data set link :
+https://www.kaggle.com/datasets/pypiahmad/twitter-sentiment-analysis
 
 ### Requirements
 
