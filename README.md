@@ -7,6 +7,7 @@ This repository contains the research work and implementation developed for my M
 
 The study investigates how **machine learning (ML)** and **deep learning (DL)** models can be applied to classify sentiments in banking-related Twitter data. The aim is to provide actionable insights for banks to enhance **customer satisfaction**, **service delivery**, and **reputation management**.
 
+---
 
 ## 🎯 Research Objectives
 
@@ -15,24 +16,7 @@ The study investigates how **machine learning (ML)** and **deep learning (DL)** 
 3. Identify recurring **themes and trends** in banking-related conversations.
 4. Offer recommendations for banks to leverage sentiment insights for improved customer engagement.
 
-
-## 📊 Key Findings
-
-* **BERT** significantly outperformed all other models in terms of accuracy and F1-score.
-* **Negative sentiment** dominates, primarily around *service quality, transactions, and customer support*.
-* Misclassifications were mainly caused by **sarcasm, slang, and ambiguous language**.
-* Explainable AI techniques (e.g., word importance visualization) proved valuable for interpreting model decisions.
-
-
-
-## 🏗️ Repository Structure
-
-```
-├── Twitter.Meenakshi.Assisment.Final-GH1037473.ipynb   # Jupyter Notebook with implementation
-├── README.md                                           # Project documentation (this file)
-```
-
-
+---
 
 ## ⚙️ Methodology
 
@@ -46,10 +30,31 @@ The study investigates how **machine learning (ML)** and **deep learning (DL)** 
   * Transformers: BERT (Bidirectional Encoder Representations from Transformers)
 * **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score, ROC-AUC, Confusion Matrix
 
+---
+
+## 🏗️ Repository Structure
+
+```
+├── Twitter.Meenakshi.Assisment.Final-GH1037473.ipynb   # Jupyter Notebook with implementation
+├── README.md                                           # Project documentation (this file)
+```
+
+---
+
+## 📊 Key Findings
+
+* **BERT** significantly outperformed all other models in terms of accuracy and F1-score.
+* **Negative sentiment** dominates, primarily around *service quality, transactions, and customer support*.
+* Misclassifications were mainly caused by **sarcasm, slang, and ambiguous language**.
+* Explainable AI techniques (e.g., word importance visualization) proved valuable for interpreting model decisions.
+
+---
 
 ## 📂 Installation & Usage
-## Data set link :
-https://www.kaggle.com/datasets/pypiahmad/twitter-sentiment-analysis
+
+### Dataset
+
+Twitter sentiment dataset: [Kaggle – Twitter Sentiment Analysis](https://www.kaggle.com/datasets/pypiahmad/twitter-sentiment-analysis)
 
 ### Requirements
 
@@ -63,9 +68,8 @@ https://www.kaggle.com/datasets/pypiahmad/twitter-sentiment-analysis
 1. Clone this repository:
 
    ```bash
- git clone https://github.com/Meenu278/Analyzing-Customer-Sentiment-on-Banking-Social-Media-using-Deep-Learning.git
-cd Analyzing-Customer-Sentiment-on-Banking-Social-Media-using-Deep-Learning
-
+   git clone https://github.com/Meenu278/Analyzing-Customer-Sentiment-on-Banking-Social-Media-using-Deep-Learning.git
+   cd Analyzing-Customer-Sentiment-on-Banking-Social-Media-using-Deep-Learning
    ```
 2. Install dependencies:
 
@@ -79,7 +83,7 @@ cd Analyzing-Customer-Sentiment-on-Banking-Social-Media-using-Deep-Learning
    ```
 4. Run the cells sequentially to reproduce the experiments and results.
 
-
+---
 
 ## 🔒 Ethical Considerations
 
@@ -87,7 +91,7 @@ cd Analyzing-Customer-Sentiment-on-Banking-Social-Media-using-Deep-Learning
 * User identities were anonymized or pseudonymized.
 * Research conducted in compliance with **ethical guidelines** and **Twitter’s terms of service**.
 
-
+---
 
 ## 📌 Future Directions
 
@@ -96,20 +100,20 @@ cd Analyzing-Customer-Sentiment-on-Banking-Social-Media-using-Deep-Learning
 * Develop a **real-time sentiment monitoring dashboard** for banks.
 * Investigate **hybrid ML + DL models** tailored for domain-specific financial language.
 
+---
 
 ## 👩‍💻 Author
 
 **Meenakshi Ashok**
 Master’s Thesis in Analyzing Customer Sentiment on Banking Social Media using Deep Learning
+GISMA University of Applied Science, Potsdam, Germany
 
-GISMA UNIVERSITY OF APPLIED SCIENCE ,POTSDAM , GERMANY
-
+---
 
 ## 📚 Citation
 
 If you use this work, please cite it as:
 
 ```
-Meenakshi Ashok, "Analyzing Customer Sentiment on Banking Social Media using Deep Learning." Master’s Thesis, [GISMA UNIVERSITY OF APPLIED SCIENCE], [2025].
+Meenakshi Ashok, "Analyzing Customer Sentiment on Banking Social Media using Deep Learning." Master’s Thesis, GISMA University of Applied Science, 2025.
 ```
-
